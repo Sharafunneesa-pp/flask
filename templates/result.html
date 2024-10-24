@@ -1,0 +1,9 @@
+<h1>
+   Based on the mark you got
+    {{ results }}
+   {%  if results>50 %}
+   <h1>passed with {{results}}</h1>
+   {% else %}
+   <h1> failed with {{results}}</h1>
+   {% endif %}
+</h1>
