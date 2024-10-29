@@ -5,9 +5,13 @@ Welcome! This repository is your starting point for building essential Flask app
 📂 Repository Overview
 
 Basic Flask Structure: Build a foundational Flask app.
+
 Variable Rules: Set up dynamic, parameterized URLs.
+
 HTTP Verbs: Handle common methods like GET, POST, PUT, and DELETE.
+
 REST APIs: Create APIs perfect for deploying machine learning models and sharing real-time predictions.
+
 Jinja2 Templating: Render dynamic HTML content with embedded Python logic.
 
 🚀 Getting Started
