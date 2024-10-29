@@ -1,6 +1,6 @@
 Flask Basics and REST API Starter 🚀
 
-Welcome! This repository is your starting point for building essential Flask applications. Whether you’re a data science enthusiast looking to share insights interactively or a developer building RESTful services, this guide covers everything you need from Flask basics to dynamic routing, REST APIs, and Jinja2 templating.
+Welcome! This repository is  starting point for building essential Flask applications. Whether a data science enthusiast looking to share insights interactively or a developer building RESTful services, this guide covers everything need from Flask basics to dynamic routing, REST APIs, and Jinja2 templating.
 
 📂 Repository Overview
 
