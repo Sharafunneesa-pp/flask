@@ -29,5 +29,5 @@ python filename.py
 Access the app at http://127.0.0.1:5000.
 
 
-Contributions
+Contributions :
 Feel free to open issues or submit pull requests to improve this repository!
