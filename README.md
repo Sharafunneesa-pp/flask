@@ -15,10 +15,15 @@ Jinja2 Templating: Render dynamic HTML content with embedded Python logic.
 To run the app locally, clone the repo, install dependencies, and start the server:
 
 git clone https://github.com/Sharafunneesa-pp/flask.git
+
 cd flask
+
 pip install -r requirements.txt
+
 python filename.py
+
 Access the app at http://127.0.0.1:5000.
+
 
 💡 Use Cases
 
